@@ -61,7 +61,7 @@ Basket Zero control
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/SCRIPTSS/refs/heads/main/BALLCONTROL.txt"))() 
 
 Blr
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))()   key:  Zypher-230-member 
 
 blr control
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))()        key: thx
