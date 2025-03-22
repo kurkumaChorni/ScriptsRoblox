@@ -59,3 +59,9 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-
 
 Basket Zero control
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/SCRIPTSS/refs/heads/main/BALLCONTROL.txt"))() 
+
+Blr
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))() 
+
+blr control
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))()        key: thx
