@@ -56,3 +56,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmidd409/-/refs/head
 
 TSB
 loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-KadeHub-16735"))()
+
+Basket Zero control
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/SCRIPTSS/refs/heads/main/BALLCONTROL.txt"))() 
