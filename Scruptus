@@ -65,3 +65,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-L
 
 blr control
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-Loader/refs/heads/main/ZypherLoader.lua",true))()        key: thx
+
+Rinns
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua"))()    key: R1nnsHubWow
+
