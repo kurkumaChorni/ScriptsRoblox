@@ -69,3 +69,73 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/UnlessDahell/Zypher-L
 Rinns
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e1cfd93b113a79773d93251b61af1e2f.lua"))()    key: R1nnsHubWow
 
+
+
+
+KJ fe
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/cat"))()
+local Window = Library:CreateWindow("KJ.CC GUI", Vector2.new(300, 300), Enum.KeyCode.RightControl)
+local AimingTab = Window:CreateTab("Tab 1")
+
+local testSection = AimingTab:CreateSector("section", "left")
+
+testSection:AddButton("KALIJ LOCK PAID", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ7285/KJ-21s-series-/main/KJ%20REVAMPED%20fd"))()
+end)
+
+testSection:AddButton("rightclick", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/BalligusapoTT/BalligusapoTT/main/Leftclickballi'))()
+end)
+
+testSection:AddButton("kj Camlock", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KJ7285/KJ-CAMLOCKTOOL-/main/Camlock"))()
+end)
+
+testSection:AddButton("tpwalk", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Tpwalk%20V4%20%5B%20BETA%20%5D.lua", true))()
+end)
+
+testSection:AddButton("slient aim blue", function()
+    getgenv().Silent = {
+        Settings = {
+            Enabled = true,
+            AimPart = "UpperTorso",
+            Prediction = 0.144627,
+            WallCheck = true,
+            Visualize = true,
+            AutoPrediction = false,
+        },
+        FOV = {
+            Enabled = true,
+            Size = 35,
+            Filled = false,
+            Thickness = 0.66,
+            Transparency = 0.9,
+            Color = Color3.fromRGB(0, 0, 255),
+        },
+    }
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberPlaysYT/Aura-x/main/Source", true))()
+end)
+
+testSection:AddButton("adonis bypass", function()
+    for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
+end)
+
+local gui = Instance.new("ScreenGui")
+gui.ResetOnSpawn = false
+gui.Parent = game.Players.LocalPlayer.PlayerGui
+
+local button = Instance.new("ImageButton")
+button.Size = UDim2.new(0, 50, 0, 50)
+button.Position = UDim2.new(0, 10, 0, 10)
+button.BackgroundTransparency = 1
+button.Image = "rbxassetid://17476128082" -- Updated image ID
+button.Parent = gui
+
+button.MouseButton1Click:Connect(function()
+    local vim = game:GetService("VirtualInputManager")
+    vim:SendKeyEvent(true, Enum.KeyCode.RightControl, false, game)
+end)
+
+button.Active = true
+button.Draggable = true
