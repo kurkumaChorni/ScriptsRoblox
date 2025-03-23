@@ -139,3 +139,6 @@ end)
 
 button.Active = true
 button.Draggable = true
+
+blr control
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XZuuyaX/CtrlBall/refs/heads/main/Main", true))() 
