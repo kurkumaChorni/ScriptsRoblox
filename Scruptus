@@ -142,3 +142,6 @@ button.Draggable = true
 
 blr control
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XZuuyaX/CtrlBall/refs/heads/main/Main", true))() 
+
+jerk2
+loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
